@@ -3,7 +3,7 @@
 
 # Hey, I'm Mahamed 👋
 
-### Computer Science Graduate | Aspiring DevOps & Cloud Engineer
+### Computer Science Graduate | Aspiring DevOps Engineer
 
 Building cloud infrastructure, exploring automation and developing hands-on DevOps projects.
 
