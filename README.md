@@ -20,7 +20,7 @@ Building cloud infrastructure, exploring automation and developing hands-on DevO
 | Project | Description |
 |---------|-------------|
 | [AWS VPC Networking](https://github.com/mahamedm1/aws-vpc-networking-project) | Custom VPC, public/private subnets, NAT Gateway and bastion host |
-| [AWS Application Load Balancer](https://github.com/mahamedm1/aws-load-balancer-project) | Multi-AZ load balancing with EC2, target groups and health checks |
+| [AWS Multi-AZ Web Application Deployment](https://github.com/mahamedm1/aws-multi-az-web-application-deployment) | Multi-AZ load balancing with EC2, target groups and health checks |
 | [Docker Flask Application](https://github.com/mahamedm1/docker-flask-app) | Multi-container Flask and Redis application using Docker Compose |
 
 ---
