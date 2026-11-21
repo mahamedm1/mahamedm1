@@ -3,9 +3,15 @@
 
 # Hey, I'm Mahamed 👋
 
-### Computer Science Graduate | DevOps Engineer
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Cloud+%26+DevOps+Engineering;AWS+%E2%80%A2+Terraform+%E2%80%A2+Docker;Infrastructure+as+Code+%26+CI%2FCD" alt="Animated typing introduction" />
+</a>
 
-Building cloud infrastructure, exploring automation and developing hands-on DevOps projects.
+<br>
+
+Computer Science graduate focused on cloud infrastructure, automation and DevOps engineering.
+
+Building hands-on projects with AWS, Terraform, Docker and CI/CD technologies.
 
 📍 London, United Kingdom
 
@@ -19,26 +25,53 @@ Building cloud infrastructure, exploring automation and developing hands-on DevO
 
 | Project | Description |
 |---------|-------------|
-| [AWS Secure Network Infrastructure](https://github.com/mahamedm1/aws-secure-network-infrastructure) | Secure AWS networking with public/private subnet isolation |
-| [AWS Multi-AZ Web Application Deployment](https://github.com/mahamedm1/aws-multi-az-web-application-deployment) | Multi-AZ load balancing with EC2, target groups and health checks |
-| [GitHub Actions CI/CD Pipeline](https://github.com/mahamedm1/github-actions-ci-pipeline) | Automated CI/CD pipeline using GitHub Actions for Python linting, Docker builds and image publishing to Docker Hub. |
+| [AWS Secure Network Infrastructure](https://github.com/mahamedm1/aws-secure-network-infrastructure) | Designed AWS networking with public/private subnets, routing, NAT Gateway and security controls. |
+| [AWS Multi-AZ Web Application Deployment](https://github.com/mahamedm1/aws-multi-az-web-application-deployment) | Deployed EC2 instances across multiple Availability Zones with an Application Load Balancer and health checks. |
+| [GitHub Actions CI/CD Pipeline](https://github.com/mahamedm1/github-actions-ci-pipeline) | Automated Python linting, Docker image builds and publishing to Docker Hub using GitHub Actions. |
 | [Terraform Cloud-Init Deployment](https://github.com/mahamedm1/terraform-cloud-init-deployment) | Automated AWS EC2 provisioning and instance configuration using Terraform and cloud-init. |
-| [Terraform WordPress Deployment](https://github.com/mahamedm1/terraform-wordpress-aws) | Automated WordPress infrastructure deployment on AWS using Terraform. |
+| [Terraform WordPress Deployment](https://github.com/mahamedm1/terraform-wordpress-aws) | Provisioned WordPress infrastructure on AWS using Terraform. |
 | [Docker Flask & Redis Application](https://github.com/mahamedm1/docker-flask-app) | Built a multi-container Flask and Redis application using Docker Compose with a Redis-backed visit counter. |
+
+---
 
 ## 🛠️ Tech Stack
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<div align="center">
 
-**Currently Learning**
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,docker,aws,terraform,githubactions,python&theme=dark)](https://skillicons.dev)
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+</div>
+
+### ⚙️ Engineering Focus
+
+- **Cloud Infrastructure:** AWS EC2, VPC, networking, load balancing and security groups
+- **Infrastructure as Code:** Terraform and cloud-init automation
+- **Containerisation:** Docker, Docker Compose and multi-service applications
+- **CI/CD:** GitHub Actions, automated validation and Docker image publishing
+- **Systems & Networking:** Linux, Bash, SSH, TCP/IP and troubleshooting
+
+---
+
+## 🎯 Current Focus
+
+- Building containerised application infrastructure on AWS
+- Developing reusable Infrastructure as Code configurations
+- Improving CI/CD automation and deployment workflows
+- Strengthening cloud architecture and troubleshooting skills
+
+**Up Next:** Kubernetes
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahamedm1&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahamedm1&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
 
 ---
 
