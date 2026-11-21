@@ -21,9 +21,10 @@ Building cloud infrastructure, exploring automation and developing hands-on DevO
 |---------|-------------|
 | [AWS Secure Network Infrastructure](https://github.com/mahamedm1/aws-secure-network-infrastructure) | Secure AWS networking with public/private subnet isolation |
 | [AWS Multi-AZ Web Application Deployment](https://github.com/mahamedm1/aws-multi-az-web-application-deployment) | Multi-AZ load balancing with EC2, target groups and health checks |
-| [Github-Actions-CI/CD Pipeline](https://github.com/mahamedm1/github-actions-ci-cd-pipeline) | Automated CI/CD pipeline using GitHub Actions for Python linting, Docker builds and image publishing to Docker Hub. |
-
----
+| [GitHub Actions CI/CD Pipeline](https://github.com/mahamedm1/github-actions-ci-pipeline) | Automated CI/CD pipeline using GitHub Actions for Python linting, Docker builds and image publishing to Docker Hub. |
+| [Terraform Cloud-Init Deployment](https://github.com/mahamedm1/terraform-cloud-init-deployment) | Automated AWS EC2 provisioning and instance configuration using Terraform and cloud-init. |
+| [Terraform WordPress Deployment](https://github.com/mahamedm1/terraform-wordpress-aws) | Automated WordPress infrastructure deployment on AWS using Terraform. |
+| [Docker Flask & Redis Application](https://github.com/mahamedm1/docker-flask-app) | Built a multi-container Flask and Redis application using Docker Compose with a Redis-backed visit counter. |
 
 ## 🛠️ Tech Stack
 
